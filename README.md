@@ -324,6 +324,6 @@ This project is licensed under the BSD License. See the [LICENSE](LICENSE) file 
 
 ## Contact
 
-For questions or suggestions, please contact [your.email@example.com](mailto:austinantony06@gmail.com) or open an issue in this repository.
+For questions or suggestions, please contact [austinantony06@gmail.com](mailto:austinantony06@gmail.com) or open an issue in this repository.
 
 ---

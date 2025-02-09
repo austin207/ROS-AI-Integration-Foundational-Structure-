@@ -1,0 +1,4 @@
+[2025-02-09 12:00:00] INFO: Starting experiment: LLM training from scratch.
+[2025-02-09 12:30:00] INFO: Epoch 1 completed. Average Loss: 3.4567.
+[2025-02-09 13:00:00] INFO: Epoch 2 completed. Average Loss: 2.9876.
+[2025-02-09 13:30:00] INFO: Training finished. Checkpoints saved in models/trained.

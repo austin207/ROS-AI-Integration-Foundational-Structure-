@@ -1,0 +1,5 @@
+model:
+  checkpoint: "/path/to/your/checkpoint_epoch_1.pt"
+inference:
+  max_length: 100
+  temperature: 1.0

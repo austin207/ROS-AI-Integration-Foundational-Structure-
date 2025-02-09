@@ -1,0 +1,1 @@
+this is a sample raw domain-specific text file. it contains technical information about electronics, programming, and vlsi design.

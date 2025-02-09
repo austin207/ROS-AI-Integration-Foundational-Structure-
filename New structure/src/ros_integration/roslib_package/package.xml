@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<package format="3">
+  <name>slm_ros</name>
+  <version>0.0.1</version>
+  <description>A ROS package that wraps the distilled small language model (SLM) for inference.</description>
+  <maintainer email="you@example.com">Your Name</maintainer>
+  <license>BSD</license>
+  <exec_depend>rclpy</exec_depend>
+  <exec_depend>std_msgs</exec_depend>
+  <buildtool_depend>ament_python</buildtool_depend>
+</package>
